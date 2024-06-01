@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sight_Guide/static/css/main.d7d4adb1.css",
+    "main.js": "/Sight_Guide/static/js/main.db1033a7.js",
+    "static/media/image.png": "/Sight_Guide/static/media/image.cc9cf028b8fc627b09bf.png",
+    "index.html": "/Sight_Guide/index.html",
+    "main.d7d4adb1.css.map": "/Sight_Guide/static/css/main.d7d4adb1.css.map",
+    "main.db1033a7.js.map": "/Sight_Guide/static/js/main.db1033a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d4adb1.css",
+    "static/js/main.db1033a7.js"
+  ]
+}
